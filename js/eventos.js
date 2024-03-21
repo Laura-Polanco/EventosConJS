@@ -20,9 +20,9 @@ const comidas = [
         "calificacion":"* * * * *"
     },
     {
-        "nombre": "Chancho al palo",
+        "nombre": "Pollo a la brasa",
         "favorito": true,
-        "calificacion":"* * * *"
+        "calificacion":"* * * * *"
     },
     {
         "nombre": "Olluquito",
